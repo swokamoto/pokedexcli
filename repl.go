@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strings"
-	
+
 	"github.com/swokamoto/pokedexcli/internal/pokeapi"
 )
 
